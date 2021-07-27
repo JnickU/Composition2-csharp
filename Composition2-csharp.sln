@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Composition2-csharp", "Composition2-csharp\Composition2-csharp.csproj", "{15C6C33E-2A7F-4667-83F2-15CE5227D97D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{15C6C33E-2A7F-4667-83F2-15CE5227D97D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15C6C33E-2A7F-4667-83F2-15CE5227D97D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15C6C33E-2A7F-4667-83F2-15CE5227D97D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15C6C33E-2A7F-4667-83F2-15CE5227D97D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {437FA4CF-F072-40BD-8493-0785C7CA04A8}
+	EndGlobalSection
+EndGlobal
